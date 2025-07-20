@@ -1,4 +1,4 @@
-# 🗺️ Guess the Indian State – A Python Turtle Geography Game 🇮🇳
+# 🗺️ Guess the Indian State – Geography Game 🇮🇳
 
 > 🎯 *How well do you know India's geography? Test your knowledge by guessing all 28 states on a blank map!*  
 > Built using **Python Turtle Graphics** + **Pandas** + your brain 🧠
